@@ -1,0 +1,5 @@
+{
+	"ip":"DADDY8889.aternos.me",
+	"port": "31896",
+	"name": "DADDY2.0"
+}
